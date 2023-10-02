@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Action"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Environment"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.NoOpAction"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Percept"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.Environment.LocationState"/>
+    <fullyQualifiedTypeName name="Chapter2agent_ABCD.Action"/>
+    <fullyQualifiedTypeName name="chapter2.agent_AB.EnvironmentState"/>
+    <fullyQualifiedTypeName name="AgentProgram2"/>
+    <fullyQualifiedTypeName name="Percept2"/>
+    <fullyQualifiedTypeName name="Action2"/>
+    <fullyQualifiedTypeName name="EnvironmentState2"/>
+    <fullyQualifiedTypeName name="Envionment2.LocationState"/>
+    <fullyQualifiedTypeName name="Envionment2"/>
+    <fullyQualifiedTypeName name="chapter2.agent_ABCD.DynamicAction"/>
+    <fullyQualifiedTypeName name="chapter2.agent_ABCD.Environment.LocationState"/>
+    <fullyQualifiedTypeName name="chapter2.agent_ABCD.Environment"/>
+</qualifiedTypeNameHistroy>
